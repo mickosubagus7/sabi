@@ -1,6 +1,6 @@
 Aplikasi Galeri Foto (SNAPWISE)
 
-Fitur-fitur
+# Fitur-fitur
 Daftar fitur utama.
 
 Login Multilevel
