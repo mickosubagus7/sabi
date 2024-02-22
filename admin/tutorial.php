@@ -105,17 +105,14 @@
                     1. Buat Album
 
                     Pergi ke menu "Album".
-                    Buat album sesuai keinginan Anda dengan mengklik opsi "Tambah Album" atau fitur serupa.
-                    Berikan judul atau nama untuk album tersebut.
+                    Buat album sesuai keinginan Anda dengan mengisi Nama album dan deskripsinya lalu "Tambah Data".
                 </p>
                 <p>
-                    2. Tambahkan Foto ke Album
+                    2. Tambah Foto
 
                     Pergi ke menu "Foto".
-                    Pilih album yang telah Anda buat sebelumnya.
-                    Tambahkan foto baru sesuai keinginan Anda dengan menggunakan opsi "Tambah Foto" atau serupa.
-                    Unggah foto atau pilih foto yang sudah ada di koleksi Anda.
-                    Simpan perubahan.
+                    Isi judul foto dan deskripsi sesuai yang anda inginkan
+                    lalu pilih album yang anda telah buat, pilih foto yang anda ingin upluoad lalu "Tambah Data".
                 </p>
             </h3>
         </div>
