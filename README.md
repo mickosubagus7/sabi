@@ -1,4 +1,4 @@
-Aplikasi Galeri Foto (SNAPWISE)
+# Aplikasi Galeri Foto (SNAPWISE)
 
 # Fitur-fitur
 Daftar fitur utama.
