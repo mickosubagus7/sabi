@@ -5,17 +5,16 @@ Daftar fitur utama.
 
 Login Multilevel
 
-Beranda 
+1. Beranda 
 
-Koleksi 
+2. Koleksi 
 
-Album
+3. Album
 
-Foto 
+4. Foto 
 
-Instalasi
+5. Instalasi
 
-Copy code
 # Contoh perintah instalasi
 instal xampp https://www.apachefriends.org/download.html
 
@@ -23,9 +22,6 @@ instal visual studio code https://code.visualstudio.com/download
 
 Donwload gallery sql dan masukan ke database  
 
-
-
 Kontak
-Berikan informasi kontak Anda atau cara pengguna dapat menghubungi untuk dukungan atau kolaborasi.
 
 # Email: mickosubagus7@gmail.com
