@@ -16,7 +16,7 @@ Login Multilevel
 5. Instalasi
 
 # Contoh perintah instalasi
-instal xampp https://www.apachefriends.org/download.html
+instal xampp versi 8.2.12 https://www.apachefriends.org/download.html
 
 instal visual studio code https://code.visualstudio.com/download
 
