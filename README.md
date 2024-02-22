@@ -14,8 +14,10 @@ Instalasi
 Copy code
 # Contoh perintah instalasi
 instal xampp https://www.apachefriends.org/download.html
+
 instal visual studio code https://code.visualstudio.com/download
-Donwload gallery sql dan masukan ke databse sesuai 
+
+Donwload gallery sql dan masukan ke database  
 
 Lisensi
 Tentukan lisensi di bawah mana proyek Anda didistribusikan.
