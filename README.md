@@ -19,11 +19,9 @@ instal visual studio code https://code.visualstudio.com/download
 
 Donwload gallery sql dan masukan ke database  
 
-Lisensi
-Tentukan lisensi di bawah mana proyek Anda didistribusikan.
+
 
 Kontak
 Berikan informasi kontak Anda atau cara pengguna dapat menghubungi untuk dukungan atau kolaborasi.
 
-Email: email.anda@example.com
-Twitter: @nama_twitter_anda
+# Email: mickosubagus7@gmail.com
